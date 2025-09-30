@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Multiskilled Remote Professional
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Adaptable Customer Support Agent & Virtual Assistant skilled in Gorgias,
+      Shopify, and graphic design tools (Canva, Illustrator). Master’s in
+      Applied Linguistics with strong communication, problem-solving, and
+      content creation skills. Thrive in fast-paced, tech-driven environments
     actions:
       - label: Get started
         altText: ''
