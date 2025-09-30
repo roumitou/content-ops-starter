@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: dOCUMENTING MY JOURNEY
       color: text-primary
       type: Badge
     elementId: ''
