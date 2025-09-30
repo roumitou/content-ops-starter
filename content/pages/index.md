@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Learning is a lifestyle
+      text: Self-learning is a lifestyle
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
